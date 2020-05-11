@@ -27,3 +27,13 @@ catkin_python_setup()
 #  DEPENDS system_lib
 #)
 
+catkin_package(
+#  INCLUDE_DIRS include
+#  LIBRARIES rospy_websocker_client
+#  CATKIN_DEPENDS rospy
+#  DEPENDS system_lib
+)
+include_directories(
+# include
+    ${catkin_INCLUDE_DIRS}
+)
