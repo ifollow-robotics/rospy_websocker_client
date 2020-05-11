@@ -9,7 +9,7 @@
 
   <depend>catkin</depend>
   <depend>rostest</depend>
-  <depend>rospy</epend>
+  <depend>rospy</depend>
 
   <depend>roslib</depend>
   <depend>message_runtime</depend>
